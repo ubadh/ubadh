@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 I’m currently working on a Traffic Recognition System.
+- 💻 I’m currently working on a Full-Stack interactive map.
 - 📚 I’m currently learning Computer Networks.
 - 🤝 I’m looking to collaborate on Machine Learning projects.
 
